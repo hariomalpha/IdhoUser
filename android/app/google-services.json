@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41103938968",
+    "project_id": "idho-8fc6b",
+    "storage_bucket": "idho-8fc6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41103938968:android:8a7ac00b63d2f8083687ed",
+        "android_client_info": {
+          "package_name": "com.driver.idho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpM5Y3qLyv6i30RA6MZrW-y2fYYmb28vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41103938968:android:cc2a9ff3979953393687ed",
+        "android_client_info": {
+          "package_name": "com.idho.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpM5Y3qLyv6i30RA6MZrW-y2fYYmb28vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
